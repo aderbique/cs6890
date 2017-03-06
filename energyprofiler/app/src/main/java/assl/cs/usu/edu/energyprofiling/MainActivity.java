@@ -139,6 +139,7 @@ public class MainActivity extends AppCompatActivity {
             //nominal voltage = 3.8 volts
             // 3.8 * 100mah/60/60
 
+            
 
             double joules = ((3.8 * 4 * 100)/3600) * (delta/1000);
 
